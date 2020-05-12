@@ -9,9 +9,9 @@ const PORT = 5000
 
 // Make user data array for mock database data
 const users = [
-    { id: 1, name: 'Seth' },
-    { id: 2, name: 'Bre' },
-    { id: 3, name: 'Raven' }
+    { id: 1, name: 'Seth', bio: 'Lambda Student' },
+    { id: 2, name: 'Bre', bio: 'photographer' },
+    { id: 3, name: 'Raven', bio: 'doggo' }
 ]
 
 
